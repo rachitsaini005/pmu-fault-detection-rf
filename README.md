@@ -5,7 +5,7 @@
 A course project for **Machine Learning Techniques (ULC601)**, Electrical & Instrumentation Engineering Department, Thapar Institute of Engineering & Technology, Patiala.
 
 **Authors:** Rachit Saini (102304007), Aashray Sharma (102304037)
-**Supervisor:** Dr. Alok Kumar Shukla, Assistant Professor, EIED
+**Supervisor:** Dr. Alok Kumar Shukla, Assistant Professor, EIED, TIET
 
 ## Overview
 
